@@ -1,0 +1,209 @@
+#brand {
+    margin-top: 15px;
+}
+
+#vermelho {
+    color: rgb(185, 0, 0);
+}
+
+.lista-nav {
+    margin: 10px;
+}
+
+.site-header {
+    border: 1px solid #e7e7e7;
+}
+
+.nav-color {
+    color: black;
+}
+
+.CodeMirror, .CodeMirror-scroll {
+    min-height: 20px;
+}
+
+#materia {
+    width: 200px;
+    margin-bottom: 50px;
+    float: left;
+}
+
+.enviar {
+    margin-bottom: 50px;
+    float: right;
+}
+
+.materia_tipo {
+    width: 300px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    float: left;
+}
+
+.resposta {
+    width: 120px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    float: left;
+}
+
+.status {
+    margin: 20px;
+    display: inline-block;
+}
+
+.btn-prova {
+    margin: 10px;
+}
+
+#res-vestibular {
+    margin-bottom: 15px;
+}
+
+.options-btn {
+    margin-left: 5px;
+}
+
+.botoes {
+    background: #ddd;
+    width: 200px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.botoes h1 {
+    text-align: center;
+}
+
+.pesquisa {
+    display: inline;
+    width: 150px;
+    margin-top: 10px; 
+}
+
+.filtro {
+    background: #ddd;
+    width: 470px;
+    height: 60px;
+    border-radius: 10px;
+    margin: 10px auto;
+}
+
+.filtro-item {
+    margin: 10px;
+}
+
+.paginacao {
+    width: 85px;
+    margin: 10px auto;
+}
+
+.res-title {
+    float: left;
+}
+
+.res-data {
+    float: right;
+}
+
+#erro-resumo {
+    width: 260px;
+    margin: 10px auto;
+}
+
+.verresumo img {
+    max-width: 765px;
+}
+
+/** Cores dos resumos **/
+.Química {
+    background: orange;
+    color: black;
+}
+
+.Química:hover {
+    background: rgb(187, 123, 3);
+    color: black;
+}
+
+.Biologia {
+    background: rgb(118, 118, 224);
+    color: black;
+}
+
+.Biologia:hover {
+    background: rgb(86, 86, 190);
+}
+
+.Português {
+    background: rgb(241, 111, 241);
+    color: black;
+}
+
+.Português:hover {
+    background: rgb(204, 70, 204);
+}
+
+.Física {
+    background: green;
+    color: black;
+}
+
+.Física:hover {
+    background: rgb(2, 99, 2);
+}
+
+.Geografia {
+    background: rgb(177, 121, 81);
+    color: black;
+}
+
+.Geografia:hover {
+    background: rgb(146, 100, 68);
+}
+
+.História {
+    background: rgb(255, 255, 0);
+    color: black;
+}
+
+.História:hover {
+    background: rgb(201, 201, 1);
+}
+
+.Inglês {
+    background: pink;
+    color: black;
+}
+
+.Inglês:hover {
+    background: rgb(197, 132, 143);
+}
+
+.Espanhol {
+    background: gray;
+    color: black;
+}
+
+.Espanhol:hover {
+    background: rgb(98, 98, 98);
+}
+
+.Literatura {
+    background: pink;
+    color: black;
+}
+
+.Literatura:hover {
+    background: rgb(207, 143, 153);
+}
+
+.Matemática {
+    background: rgb(167, 48, 48);
+    color: black;
+}
+
+.Matemática:hover {
+    background: rgb(136, 40, 40);
+}

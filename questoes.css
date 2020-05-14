@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.questao {
+    width: 900px;
+    border: 1px solid grey;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.questao-header {
+    border-bottom: 1px solid grey;
+}
+
+.disciplina {
+    background: #ddd;
+    padding: 5px;
+    padding-left: 10px;
+    border-radius: 10px 10px 0 0;
+}
+
+.pergunta-body {
+    padding: 15px;
+    padding-bottom: 0;
+}
+
+.alternativas-body {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+
+.alternativa {
+    background: white;
+    border: 1px solid #ddd;
+    color: black;
+    text-align: left;
+}
+
+.alternativas-body p {
+    display: inline;
+}
+
+#caixa-pesquisa h1 {
+    text-align: center;
+    margin: 20px;
+}
+
+#caixa-pesquisa #pesquisa {
+    margin: 20px;
+    width: 230px;
+}
+
+.instituicao {
+    display: inline-block;
+    margin: 20px;
+}
+
+#opcoes{
+    border: 1px solid #ddd;
+    width: 650px;
+    margin: 0 auto;
+}

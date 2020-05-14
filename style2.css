@@ -1,0 +1,78 @@
+#brand {
+    margin-top: 15px;
+}
+
+#vermelho {
+    color: rgb(185, 0, 0);
+}
+
+.lista-nav {
+    margin: 10px;
+}
+
+.site-header {
+    border: 1px solid #e7e7e7;
+}
+
+.nav-color {
+    color: black;
+}
+
+.CodeMirror, .CodeMirror-scroll {
+    min-height: 200px;
+}
+
+#materia {
+    width: 200px;
+    margin-bottom: 50px;
+    float: left;
+}
+
+.enviar, .preview {
+    margin-bottom: 50px;
+    margin-right: 5px;
+    float: right;
+}
+
+.materia_tipo {
+    width: 300px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    float: left;
+}
+
+.resposta {
+    width: 120px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    float: left;
+}
+
+.status {
+    margin: 20px;
+    display: inline-block;
+}
+
+.btn-prova {
+    margin: 10px;
+}
+
+#res-vestibular {
+    margin-bottom: 15px;
+}
+
+.options-btn {
+    margin-left: 5px;
+}
+
+.botoes {
+    background: #ddd;
+    width: 200px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.botoes h1 {
+    text-align: center;
+}
